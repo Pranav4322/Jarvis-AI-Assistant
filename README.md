@@ -1,0 +1,2 @@
+# Jarvis AI-Assistant
+Jarvis AI Assistant is a voice-controlled personal assistant built in Python. It listens for spoken commands via your microphone, converts speech to text using Google's speech recognition API, and responds using OpenAI's GPT model for natural conversation. Beyond chatting, Jarvis can open websites (YouTube, Google, Wikipedia), tell you the time, launch apps like FaceTime, play music, and generate AI-written content on demand — all through simple voice commands.
